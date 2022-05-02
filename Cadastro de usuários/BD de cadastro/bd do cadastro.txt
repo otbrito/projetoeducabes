@@ -1,0 +1,11 @@
+CREATE DATABASE cadastro;
+
+use DATABASE cadastro;
+
+CREATE TABLE usuarios(
+nome varchar(40),
+    email varchar(50) UNIQUE,
+    profissao varchar(40),
+    codigo int(11) PRIMARY
+
+);

@@ -1,0 +1,56 @@
+.p1{
+
+    width: 290px;
+        height: 90px;
+        line-height: 50px;
+        background-color: rgb(228, 23, 23);
+        color: #fff;
+        margin-top: 5px;
+        box-sizing: border-box;
+        padding-left: 10px;
+        text-decoration: none;
+        color: #fff;
+        
+        
+}
+
+.p2{
+
+    width: 290x;
+        height: 90px;
+        line-height: 50px;
+        background-color: rgb(162, 243, 11);
+        color: rgb(255, 255, 255);
+        margin-top: 5px;
+        box-sizing: border-box;
+        padding-left: 10px;
+        text-decoration: none;
+        color: #fff;
+        
+}
+
+p{
+    width: 290px;
+    height: 90px;
+    line-height: 50px;
+    background-color: rgb(18, 27, 2);
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.fundo{
+
+
+    background-color: rgb(3, 84, 104);
+}
+
+.demonstra{
+
+    width: 90px;
+    height: 90px;
+}
